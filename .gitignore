@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large downloaded assets / datasets
+downloads/
+*.pdf
+*.zip
+*.tar.gz
+
+# Environment & credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Vector databases / cache
+lancedb/
+chroma_db/
+.cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/

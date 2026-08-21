@@ -1,0 +1,10 @@
+agno>=1.0.0
+google-genai
+streamlit
+pandas
+openpyxl
+requests
+pypdf
+docx2txt
+lancedb
+python-dotenv
