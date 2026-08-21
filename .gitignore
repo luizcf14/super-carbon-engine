@@ -8,6 +8,8 @@ downloads/
 *.pdf
 *.zip
 *.tar.gz
+*.gpkg
+.mapbiomas_shp_raw/
 
 # Environment & credentials
 .env

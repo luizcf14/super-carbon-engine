@@ -1,0 +1,1406 @@
+{
+  "665": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "fazenda_sao_nicolau.kml": "project_boundary"
+    }
+  },
+  "738": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project areas ID738.kml": "project_boundary"
+    }
+  },
+  "832": {
+    "classified_by": "llm",
+    "pdd_used": "PDD APD CKBV.pdf",
+    "files": {
+      "PROJECT_AREA_832.kml": "project_boundary",
+      "RC_complex_gcs.kml": "other"
+    }
+  },
+  "875": {
+    "classified_by": "llm",
+    "pdd_used": "PROJ_DESC_875_24FEB2012.pdf",
+    "files": {
+      "PA_FSM.shp.kml": "project_boundary",
+      "FSM_KML_2024.kml": "other"
+    }
+  },
+  "963": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PurusProperty (KML).kml": "project_boundary"
+    }
+  },
+  "977": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "KML_977.kml": "project_boundary"
+    }
+  },
+  "981": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ADPML_ProjectArea.kml": "project_boundary"
+    }
+  },
+  "1094": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "doc.kml": "project_boundary"
+    }
+  },
+  "1112": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "RussasProperty (Kml).kml": "project_boundary"
+    }
+  },
+  "1113": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ValparaisoProperty (Kml).kml": "project_boundary"
+    }
+  },
+  "1115": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ID1115 - Project Zone Jari Amapa 2021-2026.kml": "project_boundary"
+    }
+  },
+  "1118": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "1118_KML.kml": "project_boundary"
+    }
+  },
+  "1142": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Ticket Log Fleet Fuel Substitution(3).kml": "project_boundary"
+    }
+  },
+  "1147": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "id1147_project_area_amazon_rio_redd_ifm_validated.kml": "project_boundary"
+    }
+  },
+  "1317": {
+    "classified_by": "llm",
+    "pdd_used": "PROJ_DESC_1317_15JUL2014.pdf",
+    "files": {
+      "PA1_1317_04JAN2022.kml": "project_boundary",
+      "Pratigi_ARR_ProjectBoundaries_Areas_271023 1.kml": "other"
+    }
+  },
+  "1329": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ID 1329.kml": "project_boundary"
+    }
+  },
+  "1382": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ID 1382.kml": "project_boundary"
+    }
+  },
+  "1503": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "1503_16DEC2021.kml": "project_boundary"
+    }
+  },
+  "1561": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "GSE_KML_AGO2016_001.kml": "project_boundary"
+    }
+  },
+  "1571": {
+    "classified_by": "llm",
+    "pdd_used": "PROJ_DESC_1571_28NOV2017.pdf",
+    "files": {
+      "leakage_belt_manoa.kml": "leakage_belt",
+      "project_area_manoa.kml": "project_boundary",
+      "reference_region_manoa.kml": "reference_region"
+    }
+  },
+  "1654": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_ITUXI.kml": "project_boundary"
+    }
+  },
+  "1663": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Appendix 01 - MAP OF PROJECT ZONE & PROJECT AREA.kml": "project_boundary"
+    }
+  },
+  "1686": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "agrocortex (1).kml": "project_boundary"
+    }
+  },
+  "1811": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "JARIPARÁ_REDD+_PROJECT_BOUNDARIES.kmz": "project_boundary"
+    }
+  },
+  "1884": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Bikes for the Planet-220207 (1).kml": "project_boundary"
+    }
+  },
+  "1953": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ARC Florestal Project - 53528 ha.kml": "project_boundary"
+    }
+  },
+  "1969": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "AR - 39150 AR opeen ha.kml": "project_boundary"
+    }
+  },
+  "1995": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Parque.kml": "project_boundary"
+    }
+  },
+  "2018": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ParqueAerogeradorSANTANA.kml": "project_boundary"
+    }
+  },
+  "2021": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ParqueAerogeradorGRAVIER.kml": "project_boundary"
+    }
+  },
+  "2079": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Appendix 05 - Kml Map.kml": "project_boundary"
+    }
+  },
+  "2252": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Rio Anapu-Pacaja REDD Project - 165,707 ha.kml": "project_boundary"
+    }
+  },
+  "2359": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Attachment B Titton Fazenda.kml": "project_boundary"
+    }
+  },
+  "2373": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "AP_utm_wgs84_21s (project area).kml": "project_boundary"
+    }
+  },
+  "2482": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "boafe_PA.kml": "project_boundary"
+    }
+  },
+  "2508": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "UNITOR_PA_v2.kml": "project_boundary"
+    }
+  },
+  "2539": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_completa_v1.kml": "project_boundary"
+    }
+  },
+  "2551": {
+    "classified_by": "llm",
+    "pdd_used": "BRC_VCS_PD_MR_REDD_APD_GPD_v1.8_22Mar2022.pdf",
+    "files": {
+      "2551_M3_PA_PAIs 1-15.kml": "project_boundary",
+      "Brazilian_Amazon_Project_Areas_MR2 (1).kml": "project_boundary",
+      "Amazon GPD BRC 30062021.kml": "other"
+    }
+  },
+  "2553": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "BRAZIL_20062021.kml": "project_boundary"
+    }
+  },
+  "2558": {
+    "classified_by": "llm",
+    "pdd_used": "PROJ_DESC_2558_22012023.pdf",
+    "files": {
+      "ALGAR_limite_fazenda_pacaja_v2_MS_17012019.shp.kml": "project_boundary",
+      "ABC_NORTE_BOUNDARIES (1).kml": "other"
+    }
+  },
+  "2566": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ProjectZone_InstitutoHomamPantaneiro_2021.kml": "project_boundary"
+    }
+  },
+  "2586": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Fazenda_Mata_Mata.kml": "project_boundary"
+    }
+  },
+  "2587": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Fazenda_Mata_Mata_II.kml": "project_boundary"
+    }
+  },
+  "2620": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Ribeirinho REDD.kml": "project_boundary"
+    }
+  },
+  "2709": {
+    "classified_by": "llm",
+    "pdd_used": "VCS-Joint-PD_JuruenaRiverREDDProject_v16-clean.pdf",
+    "files": {
+      "limit_leakage_belt_juruena.kml": "leakage_belt",
+      "PA_Juruena.kml": "project_boundary",
+      "Leakage Management Area.kml": "other",
+      "Reference Area.kml": "other"
+    }
+  },
+  "2726": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "OTHER_2726_03FEB2022.kml": "project_boundary"
+    }
+  },
+  "2878": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project_Boundaries.kml": "project_boundary"
+    }
+  },
+  "2950": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Limeira Project.kml": "project_boundary"
+    }
+  },
+  "2980": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "FEIJO_AREAS.kml": "project_boundary"
+    }
+  },
+  "3002": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_HIWI.kml_2_1.kml": "project_boundary"
+    }
+  },
+  "3041": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "posicao_carregadores_EZvolt.kml": "project_boundary"
+    }
+  },
+  "3049": {
+    "classified_by": "llm",
+    "pdd_used": "VCS-PD_Rio Preto Grouped REDD+ Project_v05.pdf",
+    "files": {
+      "Leakage_Belt.kml": "leakage_belt",
+      "Project_area.kml": "project_boundary",
+      "Reference_Region.kml": "reference_region",
+      "RioPreto_PA.kml": "project_boundary",
+      "Leakage_Management_Area.kml": "other"
+    }
+  },
+  "3050": {
+    "classified_by": "llm",
+    "pdd_used": "3050, Public Comment, June 2022.pdf",
+    "files": {
+      "3050_PAI Fazenda Boqueirao.kml": "project_boundary",
+      "PAI_Fazenda Boqueirao.kml": "other"
+    }
+  },
+  "3055": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "10022023_Project Area_ITAUBA.kml": "project_boundary"
+    }
+  },
+  "3141": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "WARG KML.kml": "project_boundary"
+    }
+  },
+  "3152": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_AltoXingu.kml": "project_boundary"
+    }
+  },
+  "3166": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "1_project_area_as_of_12012023_corrected.kml": "project_boundary"
+    }
+  },
+  "3281": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Fazenda Santa Rita (Andrade Sun Farm).kml": "project_boundary"
+    }
+  },
+  "3299": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Grouped project Serra do Sudeste_Fazenda Silencio.kml": "project_boundary"
+    }
+  },
+  "3304": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "BoaEsperanca_PA.kml": "project_boundary"
+    }
+  },
+  "3306": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Buritirana_REDD_Project_PA.kml": "project_boundary"
+    }
+  },
+  "3324": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA IPOA.kml": "project_boundary"
+    }
+  },
+  "3332": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "3332 property_bound.kml": "project_boundary"
+    }
+  },
+  "3334": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Marajo PA.kml": "project_boundary"
+    }
+  },
+  "3350": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "horizonte.kml": "project_boundary"
+    }
+  },
+  "3380": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "area_estudo.kml": "project_boundary"
+    }
+  },
+  "3430": {
+    "classified_by": "llm",
+    "pdd_used": "VCS.VAL.22.155_Val_Ver_JuruC!_ver_4_CL.pdf",
+    "files": {
+      "AP-v1.kml": "project_boundary",
+      "ap_municipios_.kml": "other",
+      "Jurua_Project_limits_13-02-2025.kml": "other"
+    }
+  },
+  "3447": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PZ_Planted_area_all.kml": "project_boundary"
+    }
+  },
+  "3449": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Eligibility 2010 - 2020.kml": "project_boundary"
+    }
+  },
+  "3451": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Harpia_Project_Area.kml": "project_boundary"
+    }
+  },
+  "3590": {
+    "classified_by": "llm",
+    "pdd_used": "AFOLU Buffer Account Compensation for Reversals Deed.pdf",
+    "files": {
+      "area_projeto_jutaituba-fran-certo.kml": "project_boundary",
+      "jutaituba-boundaries_prr.kml": "other"
+    }
+  },
+  "3601": {
+    "classified_by": "llm",
+    "pdd_used": "CCB_VCS_PD_CAAPII_Clean.pdf",
+    "files": {
+      "3601 PA_CAAPII.kml": "project_boundary",
+      "3601_Leakage_Belt.kml": "leakage_belt",
+      "3601_Project_Area.kml": "project_boundary",
+      "3601_Leakage_Management_Areas.kml": "other",
+      "3601_Refrence_Region.kml": "other"
+    }
+  },
+  "3631": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "new_Project_area_KML(1).kml": "project_boundary"
+    }
+  },
+  "3635": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_AUDeAPD_TresMorrinhos.kml": "project_boundary"
+    }
+  },
+  "3666": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_Xingu-Araguaia.kml": "project_boundary"
+    }
+  },
+  "3727": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "corridors_for_life_arr_grouped_project_1st_instance_limits.kml": "project_boundary"
+    }
+  },
+  "3738": {
+    "classified_by": "llm",
+    "pdd_used": "VCS PD 3738 03092025 Round3_Clean.pdf",
+    "files": {
+      "project_area_TdX.kml": "project_boundary",
+      "properties_area_TdX.kml": "other"
+    }
+  },
+  "3743": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "AtlanticForest_PAI001_and_PAI002_Boundaries.kml": "project_boundary"
+    }
+  },
+  "3746": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "NC3746_1H23_F_DB84_0004.kml": "project_boundary"
+    }
+  },
+  "3772": {
+    "classified_by": "llm",
+    "pdd_used": "VCS_PD_ReGreen_Amazon_v4.4_form4.4_clean (1).pdf",
+    "files": {
+      "AM_PAI_001.kml": "project_boundary",
+      "PAI001_EligibleAreas.kml": "other"
+    }
+  },
+  "3798": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "3-VCS-ifood-230515-Brasil + Cities Sao Paulo, Salvador, Rio de Janeiro, Recife, Brasilia, and Porto Alegre.kml": "project_boundary"
+    }
+  },
+  "3816": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PROPRIEDADE SUMAUMA.kml": "project_boundary"
+    }
+  },
+  "3822": {
+    "classified_by": "llm",
+    "pdd_used": "Withdrawal Letter.pdf",
+    "files": {
+      "Commercial_plantation.kml": "project_boundary",
+      "Native.kml": "other"
+    }
+  },
+  "3875": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Areas_Reflorestamento_-_VCS.kml": "project_boundary"
+    }
+  },
+  "3877": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PROJETO AUTOMETAL.kml": "project_boundary"
+    }
+  },
+  "4016": {
+    "classified_by": "llm",
+    "pdd_used": "VCS PD 4016 25072025_clean.pdf",
+    "files": {
+      "Project_area.kml": "project_boundary",
+      "240404_ProjectArea.kml": "other",
+      "ABC-I1_proxy_areas.kml": "other"
+    }
+  },
+  "4034": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ap_agropalma_kml.kml": "project_boundary"
+    }
+  },
+  "4042": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Projeto_AUD_ret_30012023.kml": "project_boundary"
+    }
+  },
+  "4068": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_Bluecarbon.kml": "project_boundary"
+    }
+  },
+  "4069": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "MamuriaREDD_APD_AUD.kml": "project_boundary"
+    }
+  },
+  "4072": {
+    "classified_by": "llm",
+    "pdd_used": "PD_FBV_version 07_23092024_cl.pdf",
+    "files": {
+      "2.Project Area_FBV.kml": "project_boundary",
+      "DOCUMENT 01 - KLM Map.kml": "other"
+    }
+  },
+  "4082": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA Caninde.kml": "project_boundary"
+    }
+  },
+  "4084": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Aratau_Project Area.kml": "project_boundary"
+    }
+  },
+  "4089": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_RioBranco_draft.kml": "project_boundary"
+    }
+  },
+  "4094": {
+    "classified_by": "llm",
+    "pdd_used": "v8 VCS PDMR 4094 05DEC2022-04DEC2023.pdf",
+    "files": {
+      "PA Altamira.kml": "project_boundary",
+      "Project_Zones.kml": "other"
+    }
+  },
+  "4095": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ARL_Draft_RioManito.kml": "project_boundary"
+    }
+  },
+  "4117": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "REDD_Carbonflor_PAI01_PAI02_PAI03.kml": "project_boundary"
+    }
+  },
+  "4131": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "FUTURE CARBON METHANE CAPTURE GROUPED PROJECT.kml": "project_boundary"
+    }
+  },
+  "4137": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "20230126_Kml-Macauba-Project_220928.kml": "project_boundary"
+    }
+  },
+  "4141": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "project_area_itamarati.kml": "project_boundary"
+    }
+  },
+  "4142": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project_Area_Serenity_Valley.kml": "project_boundary"
+    }
+  },
+  "4143": {
+    "classified_by": "llm",
+    "pdd_used": "tc-VCS PDMR 4143 Urupianga v5_clean.pdf",
+    "files": {
+      "PA_Reunidas_Urupianga.kml": "project_boundary",
+      "Project_area_Urupianga (1).kml": "project_boundary"
+    }
+  },
+  "4237": {
+    "classified_by": "llm",
+    "pdd_used": "VCS_PD_Energy Efficiency - Public Lighting in Brazil Grouped Project -V3.10.pdf",
+    "files": {
+      "PA_Public Lighting in Brazil.kml": "project_boundary",
+      "PA KML-Instances 1 and 2.kml": "other"
+    }
+  },
+  "4263": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project+Area+-+Sepoti.kml": "project_boundary"
+    }
+  },
+  "4265": {
+    "classified_by": "llm",
+    "pdd_used": "[CLEAN]_CCB VCS PD Project 4265 02 DEC 2025.pdf",
+    "files": {
+      "Cafe_Apui_PA.kml": "project_boundary",
+      "PA_feb18.kml": "project_boundary",
+      "Cafe_Apui_REDD+_2022.kml": "other"
+    }
+  },
+  "4391": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PDD_Jaragua_SantaRosa_Senegal.kml": "project_boundary"
+    }
+  },
+  "4394": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project_Area.shp.kml": "project_boundary"
+    }
+  },
+  "4430": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Updated-KML-ARR_Reflorestamento_de_Impacto_no_Brasil_Project_inst_0001_area_2023.06.14_v2.kml": "project_boundary"
+    }
+  },
+  "4448": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "project_area_raizes_do_bem.kml": "project_boundary"
+    }
+  },
+  "4452": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Guariba_PA.kml": "project_boundary"
+    }
+  },
+  "4461": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "GLEBA_PARANACRE.kml": "project_boundary"
+    }
+  },
+  "4476": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Sul da Bahia mesoregion.kml": "project_boundary"
+    }
+  },
+  "4485": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Total_Property_Mejurua.kml": "project_boundary"
+    }
+  },
+  "4497": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "AP20_ProjectArea.kml": "project_boundary"
+    }
+  },
+  "4509": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Vale do ParaC-ba1.kml": "project_boundary"
+    }
+  },
+  "4542": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "properties_boundaries_retificado.kml": "project_boundary"
+    }
+  },
+  "4552": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "AP_AUD_IACO_31052023.kml": "project_boundary"
+    }
+  },
+  "4592": {
+    "classified_by": "llm",
+    "pdd_used": "VCS PD Project4592_V.1.8_clean version.pdf",
+    "files": {
+      "SYMB_PAI_01_Farm_Boundaries.kml": "project_boundary",
+      "SYMB_PAI_01_Parcels_236_46ha.kml": "other"
+    }
+  },
+  "4593": {
+    "classified_by": "llm",
+    "pdd_used": "VCS_PROJ_DESC_PCP_4593_15SEP2023.pdf",
+    "files": {
+      "10_2023_BikeFloripa__Cycling the Change.kml": "project_boundary",
+      "10_2023_BikeBH__Cycling the Change.kml": "other",
+      "1_IMP_2022.12_BikeSalvador_Cycling the Change.kml": "other",
+      "2_BikePoA__Cycling the Change.kml": "other",
+      "3_IMP_2023.02_BikeBSB_Cycling the Change.kml": "other",
+      "4_IMP_2023.02.04_BikePE_Cycling the Change.kml": "other",
+      "7_2023_BikeCuritiba__Cycling the Change.kml": "other",
+      "7_2023_BikeCuritiba_COMPARTILHADO-ASG.kml": "other",
+      "8_2023.03_Estaciones-BogotC!_Cycling the Change.kml": "other"
+    }
+  },
+  "4633": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PAs_Ituxi_2.kml": "project_boundary"
+    }
+  },
+  "4671": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_TAUARI.kml": "project_boundary"
+    }
+  },
+  "4681": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_YBYRA_052023.kml": "project_boundary"
+    }
+  },
+  "4687": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ap_tuere.kml": "project_boundary"
+    }
+  },
+  "4689": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "sao-felix-do-xingu.kml": "project_boundary"
+    }
+  },
+  "4720": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ANP - Nossa Senhora Aparecida.kml": "project_boundary"
+    }
+  },
+  "4727": {
+    "classified_by": "llm",
+    "pdd_used": "Partial Release Listing Representation_4727_2026-01-27.pdf",
+    "files": {
+      "640-Project_Boundary.kml": "project_boundary",
+      "20231024_TFF Brazil Reflorestamento_1st Instance.kml": "other"
+    }
+  },
+  "4729": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Faz. TrC_s Menias_2020.kml": "project_boundary"
+    }
+  },
+  "4747": {
+    "classified_by": "llm",
+    "pdd_used": "Public Comment Summary 4747.pdf",
+    "files": {
+      "20231003-11-property-boundaries.kml": "project_boundary",
+      "pantanal-program-boundaries-new.kml": "other"
+    }
+  },
+  "4761": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "LimiteYutai_Brasil.kml": "project_boundary"
+    }
+  },
+  "4796": {
+    "classified_by": "llm",
+    "pdd_used": "CCB VCS PD Project 4796 23Oct2023 round2_Clean.pdf",
+    "files": {
+      "QCPT_Project_Area.kml": "project_boundary",
+      "QCPT_Oriximina.kml": "other"
+    }
+  },
+  "4802": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Limite_VCS_Guajara.kml": "project_boundary"
+    }
+  },
+  "4825": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_EG_2.kml": "project_boundary"
+    }
+  },
+  "4834": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "project-area-seringal-rio-branco.kml": "project_boundary"
+    }
+  },
+  "4849": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Renove_Project Boundary.kml": "project_boundary"
+    }
+  },
+  "4850": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Amazonas_Project_Areas_ID4850.kml": "project_boundary"
+    }
+  },
+  "4857": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ProjectArea_v5_GCS.kml": "project_boundary"
+    }
+  },
+  "4865": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_AUD_APD_OGA.kml": "project_boundary"
+    }
+  },
+  "4867": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_AHU.kml": "project_boundary"
+    }
+  },
+  "4876": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "NAMI_PA_VF.kml": "project_boundary"
+    }
+  },
+  "4886": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_19DEZ2023_TATUY.kml": "project_boundary"
+    }
+  },
+  "4896": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "BPACP_ Project Area (Boundary).kml": "project_boundary"
+    }
+  },
+  "4897": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Ituxi_III.kml": "project_boundary"
+    }
+  },
+  "4905": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "REDD_Pantanal_PAI01_Bodoquena_Pantanal.kml": "project_boundary"
+    }
+  },
+  "4925": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Sicredi_Methane_Program_properties_location_270224.kml": "project_boundary"
+    }
+  },
+  "4956": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project Area Tapera Amazonas REDD+.kml": "project_boundary"
+    }
+  },
+  "4962": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "2024.02.01_ProjectID4962.kml": "project_boundary"
+    }
+  },
+  "4993": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "AguadaMata_4993_PotentialArea_KML.kml": "project_boundary"
+    }
+  },
+  "5006": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Agroforestry brazilian biomes areas.KML.kml": "project_boundary"
+    }
+  },
+  "5025": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "guaranatuba project vf.kml": "project_boundary"
+    }
+  },
+  "5043": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "BRA3C.kml": "project_boundary"
+    }
+  },
+  "5044": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ARAGUAIA REDD+ BOCALON PROJECT.kml": "project_boundary"
+    }
+  },
+  "5055": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PA_AUD_v1.kml": "project_boundary"
+    }
+  },
+  "5087": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Area_Projeto_KAAPYAHU.kml": "project_boundary"
+    }
+  },
+  "5117": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "HIFA Project Boundaries.kml": "project_boundary"
+    }
+  },
+  "5184": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "WT-SBS-Grouped Project.kml": "project_boundary"
+    }
+  },
+  "5188": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Hansen Farm.kml": "project_boundary"
+    }
+  },
+  "5197": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "area_apta_alegria.kml": "project_boundary"
+    }
+  },
+  "5200": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "TI_Parakana_Geoserver-FUNAI_20231010.kml": "project_boundary"
+    }
+  },
+  "5295": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PROJETO_AGROFLORESTAL ID 5295.kml": "project_boundary"
+    }
+  },
+  "5299": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Initial Brazilian Instances.kml": "project_boundary"
+    }
+  },
+  "5328": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PROCarbono Bayer.kml": "project_boundary"
+    }
+  },
+  "5333": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "project_activities_sites_Forest Restoration_Mantiqueira_Region.kml": "project_boundary"
+    }
+  },
+  "5343": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "STOCK CAPITAL MAZUAY KML.kml": "project_boundary"
+    }
+  },
+  "5347": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "NaturAll Carbon Program_5347-Project Boundary.kml": "project_boundary"
+    }
+  },
+  "5348": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "NaturAll Carbon Program_5348_Project Boundary.kml": "project_boundary"
+    }
+  },
+  "5386": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "arr_reeco_boundaries.kml": "project_boundary"
+    }
+  },
+  "5389": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "mombak_turmalina_project_boundary_20241212.kml": "project_boundary"
+    }
+  },
+  "5390": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "KML_project area final.kml": "project_boundary"
+    }
+  },
+  "5391": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "COLORADO_PROJECTID5391.kml": "project_boundary"
+    }
+  },
+  "5415": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "instance 1_boundary_Vale do rio Branco REDD+ grouped project.kml": "project_boundary"
+    }
+  },
+  "5430": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Cultivar Progresso REDD+.kml": "project_boundary"
+    }
+  },
+  "5511": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "FazendaEngano_ProjectArea_20250307 (1) (1).kml": "project_boundary"
+    }
+  },
+  "5552": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "5552_AYR_Riba.kml": "project_boundary"
+    }
+  },
+  "5565": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Xikrin_do_Rio_Catete_Project_.kml": "project_boundary"
+    }
+  },
+  "5578": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "PAI001_TaperoaBA.kml": "project_boundary"
+    }
+  },
+  "5591": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project_Area.kml": "project_boundary"
+    }
+  },
+  "5608": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Manduri_PA2.kml": "project_boundary"
+    }
+  },
+  "5618": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project Area.kml": "project_boundary"
+    }
+  },
+  "5637": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "kml_cachoeira_seca.kml": "project_boundary"
+    }
+  },
+  "5662": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Brazilian Citrus For Climate Adaptation.kml": "project_boundary"
+    }
+  },
+  "5709": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "URTX.kml": "project_boundary"
+    }
+  },
+  "5770": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "REDD+ Sertao Veredas RPPN Perimeter.kml": "project_boundary"
+    }
+  },
+  "5774": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "ReTerra_Project_KML.kml": "project_boundary"
+    }
+  },
+  "5811": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Areas_Totais.kml": "project_boundary"
+    }
+  },
+  "5831": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "REDD_IGARAPELOURDES_PERIMETER_SOUTH_AMERICA_ALBERS_EQUAL_AREA_CONIC.kml": "project_boundary"
+    }
+  },
+  "5832": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "REDD_ZORO_PERIMETER_SOUTH_AMERICA_ALBERS_EQUAL_AREA_CONIC.kml": "project_boundary"
+    }
+  },
+  "5837": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "RDC Project Area_XARR.kml": "project_boundary"
+    }
+  },
+  "5838": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "REDD_RIOBRANCO_PERIMETER_SOUTH_AMERICA_ALBERS_EQUAL_AREA_CONIC (1).kml": "project_boundary"
+    }
+  },
+  "5856": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Brazil kml.kml": "project_boundary"
+    }
+  },
+  "5859": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Latin_America_KML.kml": "project_boundary"
+    }
+  },
+  "5889": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "521-ATP.kml": "project_boundary"
+    }
+  },
+  "5953": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "marcondesproject.kml": "project_boundary"
+    }
+  },
+  "5993": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "Project_Mucununga_PAI1.kml": "project_boundary"
+    }
+  },
+  "6055": {
+    "classified_by": "auto_single",
+    "pdd_used": null,
+    "files": {
+      "VCS6055_ProjectArea.kml": "project_boundary"
+    }
+  }
+}

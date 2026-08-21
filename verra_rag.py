@@ -164,20 +164,18 @@ class VerraRAG:
 
         # Configurar modelo Gemini
         model_args = {
-            "id": "gemini-2.0-flash",
+            "id": "gemini-3.6-flash",
         }
-        if self.api_key:
-            model_args["api_key"] = self.api_key
-        else:
-            # Caso não tenha API key explícita, tenta usar autenticação default do GCP se configurado
-            # (Agno lida com isso se passarmos vertexai=True)
-            if not os.getenv("GOOGLE_API_KEY"):
-                model_args["vertexai"] = True
+        # Resolver API key: prioridade env var > parâmetro explícito
+        resolved_key = self.api_key or os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY")
+        if resolved_key:
+            model_args["api_key"] = resolved_key
+        # Não usar vertexai=True — isso força Vertex AI que requer credenciais GCP diferentes
 
         agent = Agent(
             model=Gemini(**model_args),
             instructions=base_instrucoes,
-            system_prompt=f"INFORMAÇÕES DE SUPORTE (CONTEXTO DOS PROJETOS):\n{contexto_completo}",
+            additional_context=f"INFORMAÇÕES DE SUPORTE (CONTEXTO DOS PROJETOS):\n{contexto_completo}",
             markdown=True
         )
 
